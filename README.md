@@ -65,16 +65,22 @@ El programa muestra las líneas agregadas al pedido con la cantidad, el producto
 | ITBIS (18 %) | 94.32 |
 | **Total a pagar** | **618.32** |
 
+
 ## Capturas de pantalla
 
-Agrega aquí capturas del programa en ejecución, incluyendo el formulario con el caso de prueba y los resultados calculados.
+![Captura 1](Capturas%20IMG/Screenshot%202026-11-19%20231317.png)
 
-<!-- Inserta las imágenes en el repositorio y enlázalas, por ejemplo:
-![Formulario de pedidos](capturas/formulario-pedidos.png)
--->
+![Captura 2](Capturas%20IMG/Screenshot%202026-11-19%20231416.png)
 
-## Repositorio
+![Captura 3](Capturas%20IMG/Screenshot%202026-11-19%20231524.png)
 
-**Enlace de GitHub:** [Agregar aquí el enlace al repositorio]
+![Captura 4](Capturas%20IMG/Screenshot%202026-11-19%20231640.png)
+
+![Captura 5](Capturas%20IMG/Screenshot%202026-11-19%20231712.png)
+
+
+
+
+
 
 
